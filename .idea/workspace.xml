@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebfa78b2-bb1f-4028-8ed0-c475d25d30c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Zadanie 2 biomeria.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/High-Resolution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kontrolny.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie2.py" afterDir="false" />
+    <list default="true" id="ebfa78b2-bb1f-4028-8ed0-c475d25d30c4" name="Changes" comment="Histogram display and stretching">
+      <change afterPath="$PROJECT_DIR$/Lenna_(test_image).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanie2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/zadanie2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dzebrowskii&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dzebrowskii/Histogram-stretching-and-equalization.git&quot;,
+    &quot;accountId&quot;: &quot;b09a3324-9b89-43d9-a009-6be528480b6c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -45,7 +49,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/48692/PycharmProjects/Zadanie 2 biomeria&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -78,11 +82,25 @@
       <updated>1730306762372</updated>
       <workItem from="1730306763755" duration="1627000" />
       <workItem from="1730308455609" duration="171000" />
-      <workItem from="1730308659266" duration="7195000" />
+      <workItem from="1730308659266" duration="7487000" />
+      <workItem from="1730405428935" duration="6813000" />
     </task>
+    <task id="LOCAL-00001" summary="Histogram display and stretching">
+      <option name="closed" value="true" />
+      <created>1730321259511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730321259511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Histogram display and stretching" />
+    <option name="LAST_COMMIT_MESSAGE" value="Histogram display and stretching" />
   </component>
 </project>
