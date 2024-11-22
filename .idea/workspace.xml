@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebfa78b2-bb1f-4028-8ed0-c475d25d30c4" name="Changes" comment="otsu binarization and change brightness">
+      <change afterPath="$PROJECT_DIR$/zadanie3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zadanie2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/zadanie2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +86,12 @@
       <workItem from="1730306763755" duration="1627000" />
       <workItem from="1730308455609" duration="171000" />
       <workItem from="1730308659266" duration="7487000" />
-      <workItem from="1730405428935" duration="20852000" />
+      <workItem from="1730405428935" duration="21077000" />
+      <workItem from="1730906565768" duration="22000" />
+      <workItem from="1730906944060" duration="500000" />
+      <workItem from="1730907563748" duration="724000" />
+      <workItem from="1731276696264" duration="49000" />
+      <workItem from="1732291395238" duration="3158000" />
     </task>
     <task id="LOCAL-00001" summary="Histogram display and stretching">
       <option name="closed" value="true" />
@@ -110,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730428306025</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="otsu binarization and change brightness">
+      <option name="closed" value="true" />
+      <created>1730428789791</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730428789791</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
